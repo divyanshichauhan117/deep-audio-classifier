@@ -60,7 +60,3 @@ matplotlib>=3.5.0
 seaborn>=0.11.0     
 numpy>=1.21.0       
 pandas>=1.3.0       
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details
