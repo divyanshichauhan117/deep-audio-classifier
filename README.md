@@ -1,4 +1,4 @@
-# Deep Audio CNN Classifier
+# Deep Audio Classifier
 
 A comprehensive deep learning project for classifying environmental audio sounds using Convolutional Neural Networks (CNN) and mel-spectrograms. This project uses the UrbanSound8K dataset to classify 10 different types of urban environmental sounds.
 
