@@ -2,7 +2,7 @@
 
 A comprehensive deep learning project for classifying environmental audio sounds using Convolutional Neural Networks (CNN) and mel-spectrograms. This project uses the UrbanSound8K dataset to classify 10 different types of urban environmental sounds.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project implements a CNN-based audio classifier that:
 - Processes raw audio files into mel-spectrograms
@@ -11,7 +11,7 @@ This project implements a CNN-based audio classifier that:
 - Achieves robust performance with proper regularization
 - Provides real-time prediction capabilities
 
-## 🔊 Dataset
+##  Dataset
 
 **UrbanSound8K Dataset**
 - **Size**: ~8,732 audio files
@@ -37,7 +37,7 @@ This project implements a CNN-based audio classifier that:
 - **Global Average Pooling**: Reduces parameters and overfitting
 - **Adam Optimizer**: Adaptive learning rate optimization
 
-## 📊 Performance
+##  Performance
 
 ### Model Metrics
 - **Test Accuracy**: ~85-90% (depends on training run)
